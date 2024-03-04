@@ -20,7 +20,7 @@ function loadItens(){
 }
 
 loadItens()
-
+//another commit
 function insertItem(item, index){
     let tr = document.createElement('tr')
 
